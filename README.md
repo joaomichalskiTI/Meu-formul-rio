@@ -1,2 +1,2 @@
 # Meu-formul-rio
-https://joaomichalskiti.netlify.app
+https://jm-formulario.netlify.app/
